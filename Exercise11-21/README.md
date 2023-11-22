@@ -1,4 +1,5 @@
 [YAML Generator] (https://onlineyamltools.com/generate-random-yaml)
+[Resource] (https://python.land/data-processing/python-yaml#Convert_YAML_to_JSON_using_Python)
 
 # Exercise 11 Article 21(Text Manipulation) pg.99
 
