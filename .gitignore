@@ -1,0 +1,3 @@
+# Ignore mac window placement dot file.
+
+*.DS_Store
